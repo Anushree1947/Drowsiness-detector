@@ -34,6 +34,9 @@ In conclusion, the implementation of a Drowsiness and Distraction Detection Syst
 The development and deployment of the Drowsiness and Distraction Detection System using OpenCV mark a pivotal advancement in automotive safety technology. This system's real-time monitoring capabilities provide an essential safeguard against the prevalent issues of driver fatigue and distraction, which are leading causes of road accidents worldwide. By continuously analyzing facial landmarks and eye movements, the system can accurately identify early signs of drowsiness and distraction, allowing for prompt intervention through visual and auditory alerts.
 The use of OpenCV, combined with robust algorithms and a user-friendly interface, ensures that our solution is both efficient and accessible. This technology represents a critical step towards reducing road accidents caused by driver fatigue and inattention, ultimately saving lives and promoting safer driving practices.
 Overall, the successful deployment of this detection system underscores the importance of innovation in automotive safety and highlights the transformative impact that technology can have on our daily lives.
+Result : These are the Pictures Live Captured Down Below, Which is tried and tested By me. 
+
+
 <img width="794" height="631" alt="Screenshot 2024-05-23 122032" src="https://github.com/user-attachments/assets/15c8230c-7b44-4f92-b740-eb1e476ba9dd" />
 <img width="781" height="626" alt="Screenshot 2024-05-23 121154" src="https://github.com/user-attachments/assets/41f138e8-7191-427f-8a5c-07bd5737cc49" />
 <img width="795" height="635" alt="Screenshot 2024-05-23 121343" src="https://github.com/user-attachments/assets/dab9b8cf-2d77-488f-9a2a-2c5c0371312f" />
