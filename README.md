@@ -43,11 +43,8 @@ Tested on: Windows 11, Intel Core i3, 8 GB RAM, built-in webcam.
 Result : These are the Pictures Live Captured Down Below, Which is tried and tested By me. 
 
 
-<img width="794" height="631" alt="Screenshot 2024-05-23 122032" src="https://github.com/user-attachments/assets/15c8230c-7b44-4f92-b740-eb1e476ba9dd" />
-<img width="781" height="626" alt="Screenshot 2024-05-23 121154" src="https://github.com/user-attachments/assets/41f138e8-7191-427f-8a5c-07bd5737cc49" />
-<img width="795" height="635" alt="Screenshot 2024-05-23 121343" src="https://github.com/user-attachments/assets/dab9b8cf-2d77-488f-9a2a-2c5c0371312f" />
-<img width="791" height="633" alt="Screenshot 2024-05-23 121759" src="https://github.com/user-attachments/assets/500a9ed3-2022-4103-b4e5-288b6acec5bd" />
-<img width="789" height="633" alt="Screenshot 2024-05-23 121733" src="https://github.com/user-attachments/assets/8ef961be-370f-4d3d-a392-a33a2c3242da" />
+
+
 
 
 
